@@ -1,5 +1,5 @@
 {
   "latest_version": "1.2.0",
-  "download_url": "https://github.com/YourUsername/Bessa-BIM-Releases/releases/download/v1.2.0/BIMControlUpdate_1.2.0.zip",
+  "download_url": "https://github.com/youcefbenla/Bessa-BIM-Releases.git/BessaUpdate.zip",
   "release_notes": "Added Auto-Updater and Remote Session Kill Switch."
 }
